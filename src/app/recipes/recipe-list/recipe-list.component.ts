@@ -14,6 +14,11 @@ export class RecipeListComponent implements OnInit {
       'this is a test',
       'https://www.bbcgoodfood.com/sites/default/files/recipe-collections/collection-image/2013/05/chorizo-mozarella-gnocchi-bake-cropped.jpg'
     ),
+    new Recipe(
+      'text recipe',
+      'this is a test',
+      'https://www.bbcgoodfood.com/sites/default/files/recipe-collections/collection-image/2013/05/chorizo-mozarella-gnocchi-bake-cropped.jpg'
+    ),
   ];
   constructor() {}
 
